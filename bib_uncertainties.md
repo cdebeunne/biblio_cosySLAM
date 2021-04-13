@@ -3,6 +3,7 @@
 - Paper introducing Monte Carlo Dropout (Gal 2016) https://arxiv.org/abs/1506.02142
   - Appendix: https://arxiv.org/abs/1506.02157
   - Blog post of the same author http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html
+  - Awesome lecture about Gaussian Process by Carl Edward Rasmussen:http://videolectures.net/mlss09uk_rasmussen_gp/?q=gaussian%20process
 
 - Clear inovex blog article https://www.inovex.de/blog/uncertainty-quantification-deep-learning/
 
