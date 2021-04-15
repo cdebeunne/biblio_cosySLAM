@@ -8,5 +8,6 @@
 - Clear inovex blog article https://www.inovex.de/blog/uncertainty-quantification-deep-learning/
 
 - A general framework for DL uncertainty (Segu 2019) : https://github.com/mattiasegu/uncertainty_estimation_deep_learning
+  - Inspired from an Assumed Density Filtering framework (Gast 2018) : https://arxiv.org/abs/1805.11327
 
 - A complete review of the state of the art (2021): https://arxiv.org/abs/2011.06225
