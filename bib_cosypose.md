@@ -20,3 +20,4 @@
 
 
 - page of the BOP challenge : https://bop.felk.cvut.cz/challenges/bop-challenge-2020/#identifyingsymmetries
+- For robotic application MaskRCNN is used for object detection (HE 2018) https://arxiv.org/pdf/1703.06870.pdf
